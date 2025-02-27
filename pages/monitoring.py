@@ -28,7 +28,7 @@ processing_thread = None
 video_running = False  # Global flag to track if the video is running
 
 # Load the Model
-model = YOLO("./yolov8m.pt")
+model = YOLO("./yolov12m.pt")
 
 def process_video():
     global latest_frame, video_running
