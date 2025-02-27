@@ -7,3 +7,4 @@ Below is the system architecture of the application:
 
 ## Sequence Diagram
 ![System Architecture](./img/sys-arch-detail.jpg)
+
